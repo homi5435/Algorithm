@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="514c2362-e648-4e85-8594-d1043a7a887c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/IO/IO_1000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IO/IO_1001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IO/IO_1008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IO/IO_10869.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IO/IO_10926.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IO/IO_10998.java" afterDir="false" />
+    <list default="true" id="514c2362-e648-4e85-8594-d1043a7a887c" name="Changes" comment="백준 단계별 풀이">
+      <change afterPath="$PROJECT_DIR$/src/main/java/IO/IO_10171.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IO/IO_10172.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IO/IO_10430.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IO/IO_11382.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IO/IO_18108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IO/IO_2588.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,16 +43,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.IO_10926">
-    <configuration name="IO_1008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IO.IO_1008" />
+}</component>
+  <component name="RunManager" selected="Application.IO_10172">
+    <configuration name="IO_10171" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.IO_10171" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IO_10869" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IO.IO_10869" />
+    <configuration name="IO_10172" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.IO_10172" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IO_10926" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IO.IO_10926" />
+    <configuration name="IO_10430" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.IO_10430" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +90,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IO_10998" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IO.IO_10998" />
+    <configuration name="IO_11382" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.IO_11382" />
+      <module name="Baekjoon.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IO_2588" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.IO_2588" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
@@ -104,10 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IO_10926" />
-        <item itemvalue="Application.IO_10869" />
-        <item itemvalue="Application.IO_1008" />
-        <item itemvalue="Application.IO_10998" />
+        <item itemvalue="Application.IO_10172" />
+        <item itemvalue="Application.IO_10171" />
+        <item itemvalue="Application.IO_11382" />
+        <item itemvalue="Application.IO_2588" />
+        <item itemvalue="Application.IO_10430" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1717322729175</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="코딩 테스트 준비&#10;백준 시작">
+      <created>1717326132152</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717326132152</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,21 +185,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="코딩 테스트 준비&#10;백준 시작" />
     <option name="LAST_COMMIT_MESSAGE" value="코딩 테스트 준비&#10;백준 시작" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/IO/IO_1008.java</url>
-          <line>5</line>
-          <properties class="IO.IO_1008" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
