@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="514c2362-e648-4e85-8594-d1043a7a887c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/IF/IF_1330.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IF/IF_14681.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IF/IF_2480.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IF/IF_2525.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IF/IF_2753.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IF/IF_2884.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IF/IF_9498.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loop/LP_10950.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loop/LP_10951.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loop/LP_10952.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loop/LP_11021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loop/LP_11022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loop/LP_15552.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loop/LP_2438.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loop/LP_2439.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loop/LP_25304.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loop/LP_25314.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loop/LP_2739.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loop/LP_8393.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +55,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IF_2480">
-    <configuration name="IF_14681" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IF.IF_14681" />
+  <component name="RunManager" selected="Application.LP_10951">
+    <configuration name="LP_10950" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop.LP_10950" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IF.*" />
+          <option name="PATTERN" value="Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IF_2480" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IF.IF_2480" />
+    <configuration name="LP_10951" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop.LP_10951" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IF.*" />
+          <option name="PATTERN" value="Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IF_2525" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IF.IF_2525" />
+    <configuration name="LP_10952" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop.LP_10952" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IF.*" />
+          <option name="PATTERN" value="Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IF_2884" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IF.IF_2884" />
+    <configuration name="LP_2438" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop.LP_2438" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IF.*" />
+          <option name="PATTERN" value="Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IF_9498" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IF.IF_9498" />
+    <configuration name="LP_2439" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop.LP_2439" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IF.*" />
+          <option name="PATTERN" value="Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IF_2480" />
-        <item itemvalue="Application.IF_2525" />
-        <item itemvalue="Application.IF_2884" />
-        <item itemvalue="Application.IF_14681" />
-        <item itemvalue="Application.IF_9498" />
+        <item itemvalue="Application.LP_10951" />
+        <item itemvalue="Application.LP_10950" />
+        <item itemvalue="Application.LP_10952" />
+        <item itemvalue="Application.LP_2439" />
+        <item itemvalue="Application.LP_2438" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +168,21 @@
       <option name="project" value="LOCAL" />
       <updated>1717514269569</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="백준 단계별 풀이 조건문 완료">
+      <created>1717523255892</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717523255892</updated>
+    </task>
+    <task id="LOCAL-00006" summary="코딩 테스트 준비">
+      <created>1717523266408</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717523266408</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,7 +211,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="코딩 테스트 준비&#10;백준 시작" />
     <MESSAGE value="백준 단계별 풀이 입출력과 사칙연산 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 단계별 풀이 입출력과 사칙연산 완료" />
+    <MESSAGE value="백준 단계별 풀이 조건문 완료" />
+    <MESSAGE value="코딩 테스트 준비" />
+    <option name="LAST_COMMIT_MESSAGE" value="코딩 테스트 준비" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
