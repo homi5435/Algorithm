@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="514c2362-e648-4e85-8594-d1043a7a887c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arr/Arr_10807.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arr/Arr_10810.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arr/Arr_10818.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arr/Arr_10871.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arr/Arr_2562.java" afterDir="false" />
+    <list default="true" id="514c2362-e648-4e85-8594-d1043a7a887c" name="Changes" comment="백준 단계별 풀이 문자열 왜 n값에서 마이너스는 안됨?">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,20 +44,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Arr_10810">
-    <configuration name="Arr_10807" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arr.Arr_10807" />
-      <module name="Baekjoon.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Arr_10810" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arr.Arr_10810" />
+  <component name="RunManager" selected="Application.Math1_2903">
+    <configuration name="Ma_2563" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ma.Ma_2563" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arr.*" />
+          <option name="PATTERN" value="Ma.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arr_10818" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arr.Arr_10818" />
+    <configuration name="Math1_11005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math1.Math1_11005" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arr.*" />
+          <option name="PATTERN" value="Math1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arr_10871" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arr.Arr_10871" />
+    <configuration name="Math1_2720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math1.Math1_2720" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arr.*" />
+          <option name="PATTERN" value="Math1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +84,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arr_2562" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arr.Arr_2562" />
+    <configuration name="Math1_2745" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math1.Math1_2745" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arr.*" />
+          <option name="PATTERN" value="Math1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Math1_2903" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math1.Math1_2903" />
+      <module name="Baekjoon.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Math1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Arr_10810" />
-        <item itemvalue="Application.Arr_2562" />
-        <item itemvalue="Application.Arr_10818" />
-        <item itemvalue="Application.Arr_10871" />
-        <item itemvalue="Application.Arr_10807" />
+        <item itemvalue="Application.Math1_2903" />
+        <item itemvalue="Application.Math1_2720" />
+        <item itemvalue="Application.Math1_11005" />
+        <item itemvalue="Application.Math1_2745" />
+        <item itemvalue="Application.Ma_2563" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +185,119 @@
       <option name="project" value="LOCAL" />
       <updated>1717593029184</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="1차원 배열 문제 풀이">
+      <created>1717682813665</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717682813665</updated>
+    </task>
+    <task id="LOCAL-00010" summary="코테 준비">
+      <created>1717682821391</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1717682821391</updated>
+    </task>
+    <task id="LOCAL-00011" summary="백준 단계별 풀이 1차원 배열">
+      <created>1717694780921</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1717694780921</updated>
+    </task>
+    <task id="LOCAL-00012" summary="백준 단계별 풀이 1차원 배열 완">
+      <created>1717757647329</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1717757647329</updated>
+    </task>
+    <task id="LOCAL-00013" summary="백준 단계별 풀이 문자열">
+      <created>1717769595474</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1717769595474</updated>
+    </task>
+    <task id="LOCAL-00014" summary="백준 단계별 풀이 문자열 완">
+      <created>1717777167795</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1717777167795</updated>
+    </task>
+    <task id="LOCAL-00015" summary="백준 단계별 풀이 심화1 문자열을 배열로 받아서 해봤는데 계속 실패 이유 알기">
+      <created>1717861044518</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1717861044518</updated>
+    </task>
+    <task id="LOCAL-00016" summary="백준 단계별 풀이 문자열 심화">
+      <created>1717861059279</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1717861059279</updated>
+    </task>
+    <task id="LOCAL-00017" summary="백준 단계별 풀이 심화 완료">
+      <created>1717867884886</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1717867884886</updated>
+    </task>
+    <task id="LOCAL-00018" summary="엘리스 코테 모의고사 공약수 구하기">
+      <created>1717940644287</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1717940644287</updated>
+    </task>
+    <task id="LOCAL-00019" summary="엘리스 코테 모의고사 십진수를 이진수로">
+      <created>1717940734268</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1717940734268</updated>
+    </task>
+    <task id="LOCAL-00020" summary="백준 단계별 풀이 이차원 배열">
+      <created>1718027657590</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1718027657590</updated>
+    </task>
+    <task id="LOCAL-00021" summary="백준 단계별 풀이 2차원 배열 문제 풀이">
+      <created>1718030893274</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1718030893274</updated>
+    </task>
+    <task id="LOCAL-00022" summary="백준 단계별 풀이 2차원 배열 겹치는 부분을 뺄 생각만 해서 오래 걸림 생각의 전환이 필요">
+      <created>1718035492279</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1718035492279</updated>
+    </task>
+    <task id="LOCAL-00023" summary="백준 단계별 풀이 일반 수학1">
+      <created>1718100551334</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1718100551334</updated>
+    </task>
+    <task id="LOCAL-00024" summary="백준 단계별 풀이 일반 수학1">
+      <created>1718175836910</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1718175836910</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,7 +329,22 @@
     <MESSAGE value="백준 단계별 풀이 조건문 완료" />
     <MESSAGE value="백준 단계별 풀이 반복문 완료" />
     <MESSAGE value="코딩 테스트 준비" />
-    <option name="LAST_COMMIT_MESSAGE" value="코딩 테스트 준비" />
+    <MESSAGE value="1차원 배열 문제 풀이" />
+    <MESSAGE value="코테 준비" />
+    <MESSAGE value="백준 단계별 풀이 1차원 배열" />
+    <MESSAGE value="백준 단계별 풀이 1차원 배열 완" />
+    <MESSAGE value="백준 단계별 풀이 문자열" />
+    <MESSAGE value="백준 단계별 풀이 문자열 완" />
+    <MESSAGE value="백준 단계별 풀이 심화1 문자열을 배열로 받아서 해봤는데 계속 실패 이유 알기" />
+    <MESSAGE value="백준 단계별 풀이 문자열 심화" />
+    <MESSAGE value="백준 단계별 풀이 심화 완료" />
+    <MESSAGE value="엘리스 코테 모의고사 공약수 구하기" />
+    <MESSAGE value="엘리스 코테 모의고사 십진수를 이진수로" />
+    <MESSAGE value="백준 단계별 풀이 이차원 배열" />
+    <MESSAGE value="백준 단계별 풀이 2차원 배열 문제 풀이" />
+    <MESSAGE value="백준 단계별 풀이 2차원 배열 겹치는 부분을 뺄 생각만 해서 오래 걸림 생각의 전환이 필요" />
+    <MESSAGE value="백준 단계별 풀이 일반 수학1" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 단계별 풀이 일반 수학1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -239,6 +366,51 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/St/St_10809.java</url>
+          <line>6</line>
+          <properties class="St.St_10809" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Dp/Dp_3003.java</url>
+          <line>6</line>
+          <properties class="Dp.Dp_3003" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Dp/Dp_1157.java</url>
+          <line>8</line>
+          <properties class="Dp.Dp_1157" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Dp/Dp_2941.java</url>
+          <line>8</line>
+          <properties class="Dp.Dp_2941" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Dp/Dp_1316.java</url>
+          <line>7</line>
+          <properties class="Dp.Dp_1316" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
