@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="514c2362-e648-4e85-8594-d1043a7a887c" name="Changes" comment="백준 단계별 풀이 문자열 왜 n값에서 마이너스는 안됨?">
+    <list default="true" id="514c2362-e648-4e85-8594-d1043a7a887c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dm/Dm_5086.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +45,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Math1_2903">
-    <configuration name="Ma_2563" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ma.Ma_2563" />
+  <component name="RunManager" selected="Application.Math1_1193">
+    <configuration name="Math1_11005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math1.Math1_11005" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ma.*" />
+          <option name="PATTERN" value="Math1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Math1_11005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Math1.Math1_11005" />
+    <configuration name="Math1_1193" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math1.Math1_1193" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Math1_1193" />
         <item itemvalue="Application.Math1_2903" />
         <item itemvalue="Application.Math1_2720" />
         <item itemvalue="Application.Math1_11005" />
         <item itemvalue="Application.Math1_2745" />
-        <item itemvalue="Application.Ma_2563" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +298,28 @@
       <option name="project" value="LOCAL" />
       <updated>1718175836910</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="백준 단계별 일반 수학1 문제 풀이">
+      <created>1718266375143</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1718266375143</updated>
+    </task>
+    <task id="LOCAL-00026" summary="백준 단계별 일반 수학1 문제 풀이 달팽이 조건 확인">
+      <created>1718343716781</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1718343716781</updated>
+    </task>
+    <task id="LOCAL-00027" summary="백준 단계별 일반 수학1 문제 풀이 완">
+      <created>1718448811539</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1718448811539</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -344,7 +366,10 @@
     <MESSAGE value="백준 단계별 풀이 2차원 배열 문제 풀이" />
     <MESSAGE value="백준 단계별 풀이 2차원 배열 겹치는 부분을 뺄 생각만 해서 오래 걸림 생각의 전환이 필요" />
     <MESSAGE value="백준 단계별 풀이 일반 수학1" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 단계별 풀이 일반 수학1" />
+    <MESSAGE value="백준 단계별 일반 수학1 문제 풀이" />
+    <MESSAGE value="백준 단계별 일반 수학1 문제 풀이 달팽이 조건 확인" />
+    <MESSAGE value="백준 단계별 일반 수학1 문제 풀이 완" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 단계별 일반 수학1 문제 풀이 완" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
