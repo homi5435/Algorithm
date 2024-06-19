@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="514c2362-e648-4e85-8594-d1043a7a887c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dm/Dm_5086.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -319,7 +318,28 @@
       <option name="project" value="LOCAL" />
       <updated>1718448811539</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="백준 단계별 약수,배수 문제 풀이">
+      <created>1718532302814</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1718532302814</updated>
+    </task>
+    <task id="LOCAL-00029" summary="백준 단계별 약수,배수 문제 풀이">
+      <created>1718614616130</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1718614616130</updated>
+    </task>
+    <task id="LOCAL-00030" summary="백준 단계별 약수,배수 문제 풀이">
+      <created>1718716233854</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1718716233854</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -369,7 +389,8 @@
     <MESSAGE value="백준 단계별 일반 수학1 문제 풀이" />
     <MESSAGE value="백준 단계별 일반 수학1 문제 풀이 달팽이 조건 확인" />
     <MESSAGE value="백준 단계별 일반 수학1 문제 풀이 완" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 단계별 일반 수학1 문제 풀이 완" />
+    <MESSAGE value="백준 단계별 약수,배수 문제 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 단계별 약수,배수 문제 풀이" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
