@@ -30,20 +30,24 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2hJpLwI0ez5gDvapxqYhkPL3rGi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Math1_1193">
     <configuration name="Math1_11005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Math1.Math1_11005" />
@@ -339,7 +343,21 @@
       <option name="project" value="LOCAL" />
       <updated>1718716233854</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="백준 단계별 약수,배수 문제 풀이">
+      <created>1718804422592</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1718804422592</updated>
+    </task>
+    <task id="LOCAL-00032" summary="백준 단계별 약수,배수 문제 풀이 소수">
+      <created>1718942558798</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1718942558798</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -390,7 +408,8 @@
     <MESSAGE value="백준 단계별 일반 수학1 문제 풀이 달팽이 조건 확인" />
     <MESSAGE value="백준 단계별 일반 수학1 문제 풀이 완" />
     <MESSAGE value="백준 단계별 약수,배수 문제 풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 단계별 약수,배수 문제 풀이" />
+    <MESSAGE value="백준 단계별 약수,배수 문제 풀이 소수" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 단계별 약수,배수 문제 풀이 소수" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
