@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="514c2362-e648-4e85-8594-d1043a7a887c" name="Changes" comment="백준 단계별 기하 직사각형을 만들기 위한 마지막 좌표">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ge/Ge_15894.java" afterDir="false" />
+    <list default="true" id="514c2362-e648-4e85-8594-d1043a7a887c" name="Changes" comment="백준 단계별 기하 가능한 둘레가 긴 삼각형 만드는 문제">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ac1/Ac1_2475.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,22 +58,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Baekjoon [:Ge_1085.main()].executor": "Run",
-    "Gradle.Baekjoon [:Ge_15894.main()].executor": "Run",
-    "Gradle.Baekjoon [:Math1_1193.main()].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hhss5/IdeaProjects/Baekjoon",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Baekjoon [:Ge_10101.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Baekjoon [:Ge_1085.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Baekjoon [:Ge_14215.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Baekjoon [:Ge_15894.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Baekjoon [:Ge_5073.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Baekjoon [:Ge_9063.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Baekjoon [:Math1_1193.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hhss5/IdeaProjects/Baekjoon&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Ge_15894">
-    <configuration name="Ge_1085" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ge.Ge_1085" />
+}</component>
+  <component name="RunManager" selected="Application.Ac1_2475">
+    <configuration name="Ac1_2475" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ac1.Ac1_2475" />
+      <module name="Baekjoon.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ac1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ge_10101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ge.Ge_10101" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ge_15894" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ge.Ge_15894" />
+    <configuration name="Ge_14215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ge.Ge_14215" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
@@ -97,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Math1_1193" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Math1.Math1_1193" />
+    <configuration name="Ge_5073" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ge.Ge_5073" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Math1.*" />
+          <option name="PATTERN" value="Ge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,25 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Math1_2720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Math1.Math1_2720" />
+    <configuration name="Ge_9063" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ge.Ge_9063" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Math1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Math1_2903" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Math1.Math1_2903" />
-      <module name="Baekjoon.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Math1.*" />
+          <option name="PATTERN" value="Ge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ge_15894" />
-        <item itemvalue="Application.Ge_1085" />
-        <item itemvalue="Application.Math1_1193" />
-        <item itemvalue="Application.Math1_2903" />
-        <item itemvalue="Application.Math1_2720" />
+        <item itemvalue="Application.Ac1_2475" />
+        <item itemvalue="Application.Ge_14215" />
+        <item itemvalue="Application.Ge_5073" />
+        <item itemvalue="Application.Ge_10101" />
+        <item itemvalue="Application.Ge_9063" />
       </list>
     </recent_temporary>
   </component>
@@ -411,7 +416,47 @@
       <option name="project" value="LOCAL" />
       <updated>1719380111932</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="백준 단계별 기하 도형의 둘레 길이 구하기, 좀더 단순 하게 생각할 것">
+      <option name="closed" value="true" />
+      <created>1719462077804</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1719462077804</updated>
+    </task>
+    <task id="LOCAL-00038" summary="백준 단계별 기하 옥구슬을 모두 포함하는 직사각형을 찾는 문제">
+      <option name="closed" value="true" />
+      <created>1719563641420</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1719563641420</updated>
+    </task>
+    <task id="LOCAL-00039" summary="백준 단계별 기하 각도에 따른 삼각형 판별">
+      <option name="closed" value="true" />
+      <created>1719818346829</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1719818346829</updated>
+    </task>
+    <task id="LOCAL-00040" summary="백준 단계별 기하 변의 길이에 따른 삼각형 판별">
+      <option name="closed" value="true" />
+      <created>1719819269067</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1719819269067</updated>
+    </task>
+    <task id="LOCAL-00041" summary="백준 단계별 기하 가능한 둘레가 긴 삼각형 만드는 문제">
+      <option name="closed" value="true" />
+      <created>1719820437122</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1719820437122</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -438,11 +483,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="코딩 테스트 준비" />
-    <MESSAGE value="1차원 배열 문제 풀이" />
-    <MESSAGE value="코테 준비" />
-    <MESSAGE value="백준 단계별 풀이 1차원 배열" />
-    <MESSAGE value="백준 단계별 풀이 1차원 배열 완" />
     <MESSAGE value="백준 단계별 풀이 문자열" />
     <MESSAGE value="백준 단계별 풀이 문자열 완" />
     <MESSAGE value="백준 단계별 풀이 심화1 문자열을 배열로 받아서 해봤는데 계속 실패 이유 알기" />
@@ -463,7 +503,12 @@
     <MESSAGE value="백준 단계별 기하 직사각형의 넓이 문제" />
     <MESSAGE value="백준 단계별 기하 좌표에서의 최소 거리 문제" />
     <MESSAGE value="백준 단계별 기하 직사각형을 만들기 위한 마지막 좌표" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 단계별 기하 직사각형을 만들기 위한 마지막 좌표" />
+    <MESSAGE value="백준 단계별 기하 도형의 둘레 길이 구하기, 좀더 단순 하게 생각할 것" />
+    <MESSAGE value="백준 단계별 기하 옥구슬을 모두 포함하는 직사각형을 찾는 문제" />
+    <MESSAGE value="백준 단계별 기하 각도에 따른 삼각형 판별" />
+    <MESSAGE value="백준 단계별 기하 변의 길이에 따른 삼각형 판별" />
+    <MESSAGE value="백준 단계별 기하 가능한 둘레가 긴 삼각형 만드는 문제" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 단계별 기하 가능한 둘레가 긴 삼각형 만드는 문제" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
