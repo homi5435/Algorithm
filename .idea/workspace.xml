@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="514c2362-e648-4e85-8594-d1043a7a887c" name="Changes" comment="백준 solved.ac 1단계 검증수 제곱근">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ac1/Ac1_2577.java" afterDir="false" />
+    <list default="true" id="514c2362-e648-4e85-8594-d1043a7a887c" name="Changes" comment="백준 solved.ac 2단계 웰컴 키트">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ac2/Ac2_4153.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +59,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Baekjoon [:Ac1_10250.main()].executor": "Run",
     "Gradle.Baekjoon [:Ac1_2475.main()].executor": "Run",
     "Gradle.Baekjoon [:Ac1_2577.main()].executor": "Run",
+    "Gradle.Baekjoon [:Ac1_2741.main()].executor": "Run",
+    "Gradle.Baekjoon [:Ac1_2920.main()].executor": "Run",
+    "Gradle.Baekjoon [:Ac1_8958.main()].executor": "Run",
+    "Gradle.Baekjoon [:Ac2_30802.main()].executor": "Run",
+    "Gradle.Baekjoon [:Ac2_4153.main()].executor": "Run",
     "Gradle.Baekjoon [:Ge_10101.main()].executor": "Run",
     "Gradle.Baekjoon [:Ge_1085.main()].executor": "Run",
     "Gradle.Baekjoon [:Ge_14215.main()].executor": "Run",
@@ -76,9 +82,9 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ac1_2577">
-    <configuration name="Ac1_2475" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ac1.Ac1_2475" />
+  <component name="RunManager" selected="Application.Ac2_4153">
+    <configuration name="Ac1_10250" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ac1.Ac1_10250" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ac1_2577" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ac1.Ac1_2577" />
+    <configuration name="Ac1_2920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ac1.Ac1_2920" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
@@ -103,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ge_10101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ge.Ge_10101" />
+    <configuration name="Ac1_8958" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ac1.Ac1_8958" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ge.*" />
+          <option name="PATTERN" value="Ac1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ge_14215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ge.Ge_14215" />
+    <configuration name="Ac2_30802" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ac2.Ac2_30802" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ge.*" />
+          <option name="PATTERN" value="Ac2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ge_5073" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ge.Ge_5073" />
+    <configuration name="Ac2_4153" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ac2.Ac2_4153" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ge.*" />
+          <option name="PATTERN" value="Ac2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ac1_2577" />
-        <item itemvalue="Application.Ac1_2475" />
-        <item itemvalue="Application.Ge_14215" />
-        <item itemvalue="Application.Ge_5073" />
-        <item itemvalue="Application.Ge_10101" />
+        <item itemvalue="Application.Ac2_4153" />
+        <item itemvalue="Application.Ac2_30802" />
+        <item itemvalue="Application.Ac1_10250" />
+        <item itemvalue="Application.Ac1_8958" />
+        <item itemvalue="Application.Ac1_2920" />
       </list>
     </recent_temporary>
   </component>
@@ -465,7 +471,63 @@
       <option name="project" value="LOCAL" />
       <updated>1719888110499</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="백준 solved.ac 1단계 숫자의 개수 string.valueof로 정수를 문자열로 치환 후 배열에 저장하여 출력">
+      <option name="closed" value="true" />
+      <created>1719892429228</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1719892429228</updated>
+    </task>
+    <task id="LOCAL-00044" summary="백준 solved.ac 1단계 n찍기">
+      <option name="closed" value="true" />
+      <created>1719892665246</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1719892665246</updated>
+    </task>
+    <task id="LOCAL-00045" summary="백준 solved.ac 1단계 음계 조건문을 세울때 잘 확인할것">
+      <option name="closed" value="true" />
+      <created>1719894142999</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1719894142999</updated>
+    </task>
+    <task id="LOCAL-00046" summary="백준 solved.ac 1단계 OX 퀴즈 연속된 합 구하기 - 배열없이도 가능">
+      <option name="closed" value="true" />
+      <created>1719993895595</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1719993895595</updated>
+    </task>
+    <task id="LOCAL-00047" summary="백준 solved.ac 1단계 ACM호텔 정답률 33% 한번에 통과 기분이 좋음 호텔 층당 방 갯수가 주어지는게 함정 호텔 방 갯수 이상으로 손님이 많다면 주어는게 맞음">
+      <option name="closed" value="true" />
+      <created>1719996108682</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1719996108682</updated>
+    </task>
+    <task id="LOCAL-00048" summary="백준 solved.ac 1단계 A + B - C 문자열, 정수 변환 문제">
+      <option name="closed" value="true" />
+      <created>1719996997180</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1719996997180</updated>
+    </task>
+    <task id="LOCAL-00049" summary="백준 solved.ac 2단계 웰컴 키트">
+      <option name="closed" value="true" />
+      <created>1720073050557</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1720073050557</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -492,13 +554,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 단계별 풀이 문자열 완" />
-    <MESSAGE value="백준 단계별 풀이 심화1 문자열을 배열로 받아서 해봤는데 계속 실패 이유 알기" />
-    <MESSAGE value="백준 단계별 풀이 문자열 심화" />
-    <MESSAGE value="백준 단계별 풀이 심화 완료" />
-    <MESSAGE value="엘리스 코테 모의고사 공약수 구하기" />
-    <MESSAGE value="엘리스 코테 모의고사 십진수를 이진수로" />
-    <MESSAGE value="백준 단계별 풀이 이차원 배열" />
     <MESSAGE value="백준 단계별 풀이 2차원 배열 문제 풀이" />
     <MESSAGE value="백준 단계별 풀이 2차원 배열 겹치는 부분을 뺄 생각만 해서 오래 걸림 생각의 전환이 필요" />
     <MESSAGE value="백준 단계별 풀이 일반 수학1" />
@@ -517,7 +572,14 @@
     <MESSAGE value="백준 단계별 기하 변의 길이에 따른 삼각형 판별" />
     <MESSAGE value="백준 단계별 기하 가능한 둘레가 긴 삼각형 만드는 문제" />
     <MESSAGE value="백준 solved.ac 1단계 검증수 제곱근" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 solved.ac 1단계 검증수 제곱근" />
+    <MESSAGE value="백준 solved.ac 1단계 숫자의 개수 string.valueof로 정수를 문자열로 치환 후 배열에 저장하여 출력" />
+    <MESSAGE value="백준 solved.ac 1단계 n찍기" />
+    <MESSAGE value="백준 solved.ac 1단계 음계 조건문을 세울때 잘 확인할것" />
+    <MESSAGE value="백준 solved.ac 1단계 OX 퀴즈 연속된 합 구하기 - 배열없이도 가능" />
+    <MESSAGE value="백준 solved.ac 1단계 ACM호텔 정답률 33% 한번에 통과 기분이 좋음 호텔 층당 방 갯수가 주어지는게 함정 호텔 방 갯수 이상으로 손님이 많다면 주어는게 맞음" />
+    <MESSAGE value="백준 solved.ac 1단계 A + B - C 문자열, 정수 변환 문제" />
+    <MESSAGE value="백준 solved.ac 2단계 웰컴 키트" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 solved.ac 2단계 웰컴 키트" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
