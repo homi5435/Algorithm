@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="514c2362-e648-4e85-8594-d1043a7a887c" name="Changes" comment="백준 solved.ac 2단계 웰컴 키트">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ac2/Ac2_4153.java" afterDir="false" />
+    <list default="true" id="514c2362-e648-4e85-8594-d1043a7a887c" name="Changes" comment="백준 solved.ac 2단계 분해합 - 브루트포스 다른 알고리즘 방식도 찾아보기">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ac2/Ac2_2798.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +65,7 @@
     "Gradle.Baekjoon [:Ac1_2741.main()].executor": "Run",
     "Gradle.Baekjoon [:Ac1_2920.main()].executor": "Run",
     "Gradle.Baekjoon [:Ac1_8958.main()].executor": "Run",
+    "Gradle.Baekjoon [:Ac2_2798.main()].executor": "Run",
     "Gradle.Baekjoon [:Ac2_30802.main()].executor": "Run",
     "Gradle.Baekjoon [:Ac2_4153.main()].executor": "Run",
     "Gradle.Baekjoon [:Ge_10101.main()].executor": "Run",
@@ -82,22 +83,9 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ac2_4153">
+  <component name="RunManager" selected="Application.Ac2_2798">
     <configuration name="Ac1_10250" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ac1.Ac1_10250" />
-      <module name="Baekjoon.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ac1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ac1_2920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ac1.Ac1_2920" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
@@ -115,6 +103,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Ac1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ac2_2798" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ac2.Ac2_2798" />
+      <module name="Baekjoon.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ac2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ac2_2798" />
         <item itemvalue="Application.Ac2_4153" />
         <item itemvalue="Application.Ac2_30802" />
         <item itemvalue="Application.Ac1_10250" />
         <item itemvalue="Application.Ac1_8958" />
-        <item itemvalue="Application.Ac1_2920" />
       </list>
     </recent_temporary>
   </component>
@@ -391,22 +392,6 @@
       <option name="project" value="LOCAL" />
       <updated>1718942558798</updated>
     </task>
-    <task id="LOCAL-00033" summary="백준 단계별 약수,배수 문제 풀이 소수 완">
-      <option name="closed" value="true" />
-      <created>1719218969599</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1719218969599</updated>
-    </task>
-    <task id="LOCAL-00034" summary="백준 단계별 기하 직사각형의 넓이 문제">
-      <option name="closed" value="true" />
-      <created>1719300136811</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1719300136811</updated>
-    </task>
     <task id="LOCAL-00035" summary="백준 단계별 기하 좌표에서의 최소 거리 문제">
       <option name="closed" value="true" />
       <created>1719302342473</created>
@@ -527,7 +512,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720073050557</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="백준 solved.ac 2단계 직각삼각형 피타고라스의 정리">
+      <option name="closed" value="true" />
+      <created>1720162526293</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1720162526293</updated>
+    </task>
+    <task id="LOCAL-00051" summary="백준 solved.ac 2단계 분해합 - 브루트포스 다른 알고리즘 방식도 찾아보기">
+      <option name="closed" value="true" />
+      <created>1720346803310</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1720346803311</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -554,8 +555,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 단계별 풀이 2차원 배열 문제 풀이" />
-    <MESSAGE value="백준 단계별 풀이 2차원 배열 겹치는 부분을 뺄 생각만 해서 오래 걸림 생각의 전환이 필요" />
     <MESSAGE value="백준 단계별 풀이 일반 수학1" />
     <MESSAGE value="백준 단계별 일반 수학1 문제 풀이" />
     <MESSAGE value="백준 단계별 일반 수학1 문제 풀이 달팽이 조건 확인" />
@@ -579,7 +578,9 @@
     <MESSAGE value="백준 solved.ac 1단계 ACM호텔 정답률 33% 한번에 통과 기분이 좋음 호텔 층당 방 갯수가 주어지는게 함정 호텔 방 갯수 이상으로 손님이 많다면 주어는게 맞음" />
     <MESSAGE value="백준 solved.ac 1단계 A + B - C 문자열, 정수 변환 문제" />
     <MESSAGE value="백준 solved.ac 2단계 웰컴 키트" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 solved.ac 2단계 웰컴 키트" />
+    <MESSAGE value="백준 solved.ac 2단계 직각삼각형 피타고라스의 정리" />
+    <MESSAGE value="백준 solved.ac 2단계 분해합 - 브루트포스 다른 알고리즘 방식도 찾아보기" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 solved.ac 2단계 분해합 - 브루트포스 다른 알고리즘 방식도 찾아보기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -646,6 +647,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Ac2/Ac2_2798.java</url>
+          <line>8</line>
+          <properties class="Ac2.Ac2_2798" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
