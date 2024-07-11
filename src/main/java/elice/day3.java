@@ -36,7 +36,9 @@ public class day3 {
                 int subLength = plength(s, subStart, subEnd); //재귀적으로 계산
                 pdlength += num * subLength;
                 i = subEnd;
-            } else pdlength++; //숫자가 아닌 문자일 경우 길이를 1 증가
+            } else{
+                pdlength++; //숫자가 아닌 문자일 경우 길이를 1 증가
+            }
             i++;
         }
         return pdlength;

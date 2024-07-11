@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="514c2362-e648-4e85-8594-d1043a7a887c" name="Changes" comment="백준 solved.ac 2단계 분해합 - 브루트포스 다른 알고리즘 방식도 찾아보기">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ac2/Ac2_2798.java" afterDir="false" />
+    <list default="true" id="514c2362-e648-4e85-8594-d1043a7a887c" name="Changes" comment="엘리스 코드 챌린지 3일차 - 문자열 압축 해제 (틀림) 재도전 할 것">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ac2/Ac2_2609.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/elice/day3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/elice/day3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +68,9 @@
     "Gradle.Baekjoon [:Ac1_2741.main()].executor": "Run",
     "Gradle.Baekjoon [:Ac1_2920.main()].executor": "Run",
     "Gradle.Baekjoon [:Ac1_8958.main()].executor": "Run",
+    "Gradle.Baekjoon [:Ac2_1259.main()].executor": "Run",
+    "Gradle.Baekjoon [:Ac2_15829.main()].executor": "Run",
+    "Gradle.Baekjoon [:Ac2_2609.main()].executor": "Run",
     "Gradle.Baekjoon [:Ac2_2798.main()].executor": "Run",
     "Gradle.Baekjoon [:Ac2_30802.main()].executor": "Run",
     "Gradle.Baekjoon [:Ac2_4153.main()].executor": "Run",
@@ -75,43 +81,20 @@
     "Gradle.Baekjoon [:Ge_5073.main()].executor": "Run",
     "Gradle.Baekjoon [:Ge_9063.main()].executor": "Run",
     "Gradle.Baekjoon [:Math1_1193.main()].executor": "Run",
+    "Gradle.Baekjoon [:day1.main()].executor": "Run",
+    "Gradle.Baekjoon [:day2.main()].executor": "Run",
+    "Gradle.Baekjoon [:day3.main()].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/hhss5/IdeaProjects/Baekjoon",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ac2_2798">
-    <configuration name="Ac1_10250" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ac1.Ac1_10250" />
-      <module name="Baekjoon.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ac1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ac1_8958" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ac1.Ac1_8958" />
-      <module name="Baekjoon.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ac1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ac2_2798" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ac2.Ac2_2798" />
+  <component name="RunManager" selected="Application.Ac2_2609">
+    <configuration name="Ac2_1259" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ac2.Ac2_1259" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ac2_30802" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ac2.Ac2_30802" />
+    <configuration name="Ac2_15829" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ac2.Ac2_15829" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
@@ -136,12 +119,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ac2_4153" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ac2.Ac2_4153" />
+    <configuration name="Ac2_2609" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ac2.Ac2_2609" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Ac2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="elice.day2" />
+      <module name="Baekjoon.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="elice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="elice.day3" />
+      <module name="Baekjoon.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="elice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ac2_2798" />
-        <item itemvalue="Application.Ac2_4153" />
-        <item itemvalue="Application.Ac2_30802" />
-        <item itemvalue="Application.Ac1_10250" />
-        <item itemvalue="Application.Ac1_8958" />
+        <item itemvalue="Application.Ac2_2609" />
+        <item itemvalue="Application.day3" />
+        <item itemvalue="Application.Ac2_1259" />
+        <item itemvalue="Application.day2" />
+        <item itemvalue="Application.Ac2_15829" />
       </list>
     </recent_temporary>
   </component>
@@ -392,54 +401,6 @@
       <option name="project" value="LOCAL" />
       <updated>1718942558798</updated>
     </task>
-    <task id="LOCAL-00035" summary="백준 단계별 기하 좌표에서의 최소 거리 문제">
-      <option name="closed" value="true" />
-      <created>1719302342473</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1719302342473</updated>
-    </task>
-    <task id="LOCAL-00036" summary="백준 단계별 기하 직사각형을 만들기 위한 마지막 좌표">
-      <option name="closed" value="true" />
-      <created>1719380111932</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1719380111932</updated>
-    </task>
-    <task id="LOCAL-00037" summary="백준 단계별 기하 도형의 둘레 길이 구하기, 좀더 단순 하게 생각할 것">
-      <option name="closed" value="true" />
-      <created>1719462077804</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1719462077804</updated>
-    </task>
-    <task id="LOCAL-00038" summary="백준 단계별 기하 옥구슬을 모두 포함하는 직사각형을 찾는 문제">
-      <option name="closed" value="true" />
-      <created>1719563641420</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1719563641420</updated>
-    </task>
-    <task id="LOCAL-00039" summary="백준 단계별 기하 각도에 따른 삼각형 판별">
-      <option name="closed" value="true" />
-      <created>1719818346829</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1719818346829</updated>
-    </task>
-    <task id="LOCAL-00040" summary="백준 단계별 기하 변의 길이에 따른 삼각형 판별">
-      <option name="closed" value="true" />
-      <created>1719819269067</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1719819269067</updated>
-    </task>
     <task id="LOCAL-00041" summary="백준 단계별 기하 가능한 둘레가 긴 삼각형 만드는 문제">
       <option name="closed" value="true" />
       <created>1719820437122</created>
@@ -528,7 +489,55 @@
       <option name="project" value="LOCAL" />
       <updated>1720346803311</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="백준 solved.ac 2단계 블랙잭 3중 for문 사용">
+      <option name="closed" value="true" />
+      <created>1720409762688</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1720409762689</updated>
+    </task>
+    <task id="LOCAL-00053" summary="엘리스 알고리즘 코드 챌린지 시간복잡도 제한이 있는 주어진 수보다 크면서 숫자의 구성은 동일한 가장 작은 수 찾기">
+      <option name="closed" value="true" />
+      <created>1720435626807</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1720435626808</updated>
+    </task>
+    <task id="LOCAL-00054" summary="solved.ac 2단계 - hash값 만들기 BigInteger 사용&#10;다른 소수로 나눠줄 생각을 못함">
+      <option name="closed" value="true" />
+      <created>1720515298015</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1720515298016</updated>
+    </task>
+    <task id="LOCAL-00055" summary="elice code Challenge - 2일차 정리 정돈을 좋아하는 k씨">
+      <option name="closed" value="true" />
+      <created>1720517592457</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1720517592457</updated>
+    </task>
+    <task id="LOCAL-00056" summary="solved.ac 2단계 - 팰린드롬수 시간복잡도 더 낮추기">
+      <option name="closed" value="true" />
+      <created>1720602355335</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1720602355336</updated>
+    </task>
+    <task id="LOCAL-00057" summary="엘리스 코드 챌린지 3일차 - 문자열 압축 해제 (틀림) 재도전 할 것">
+      <option name="closed" value="true" />
+      <created>1720607174344</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1720607174344</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -555,12 +564,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 단계별 풀이 일반 수학1" />
-    <MESSAGE value="백준 단계별 일반 수학1 문제 풀이" />
-    <MESSAGE value="백준 단계별 일반 수학1 문제 풀이 달팽이 조건 확인" />
-    <MESSAGE value="백준 단계별 일반 수학1 문제 풀이 완" />
-    <MESSAGE value="백준 단계별 약수,배수 문제 풀이" />
-    <MESSAGE value="백준 단계별 약수,배수 문제 풀이 소수" />
     <MESSAGE value="백준 단계별 약수,배수 문제 풀이 소수 완" />
     <MESSAGE value="백준 단계별 기하 직사각형의 넓이 문제" />
     <MESSAGE value="백준 단계별 기하 좌표에서의 최소 거리 문제" />
@@ -580,7 +583,13 @@
     <MESSAGE value="백준 solved.ac 2단계 웰컴 키트" />
     <MESSAGE value="백준 solved.ac 2단계 직각삼각형 피타고라스의 정리" />
     <MESSAGE value="백준 solved.ac 2단계 분해합 - 브루트포스 다른 알고리즘 방식도 찾아보기" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 solved.ac 2단계 분해합 - 브루트포스 다른 알고리즘 방식도 찾아보기" />
+    <MESSAGE value="백준 solved.ac 2단계 블랙잭 3중 for문 사용" />
+    <MESSAGE value="엘리스 알고리즘 코드 챌린지 시간복잡도 제한이 있는 주어진 수보다 크면서 숫자의 구성은 동일한 가장 작은 수 찾기" />
+    <MESSAGE value="solved.ac 2단계 - hash값 만들기 BigInteger 사용&#10;다른 소수로 나눠줄 생각을 못함" />
+    <MESSAGE value="elice code Challenge - 2일차 정리 정돈을 좋아하는 k씨" />
+    <MESSAGE value="solved.ac 2단계 - 팰린드롬수 시간복잡도 더 낮추기" />
+    <MESSAGE value="엘리스 코드 챌린지 3일차 - 문자열 압축 해제 (틀림) 재도전 할 것" />
+    <option name="LAST_COMMIT_MESSAGE" value="엘리스 코드 챌린지 3일차 - 문자열 압축 해제 (틀림) 재도전 할 것" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -649,9 +658,9 @@
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/Ac2/Ac2_2798.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Ac2/Ac2_2609.java</url>
           <line>8</line>
-          <properties class="Ac2.Ac2_2798" method="main">
+          <properties class="Ac2.Ac2_2609" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
