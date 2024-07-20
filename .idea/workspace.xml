@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="514c2362-e648-4e85-8594-d1043a7a887c" name="Changes" comment="엘리스 코드 챌린지 3일차 - 문자열 압축 해제 (틀림) 재도전 할 것">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ac2/Ac2_2609.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="514c2362-e648-4e85-8594-d1043a7a887c" name="Changes" comment="엘리스 코딩 챌린지 day9 - 격자 위의 ELICE BFS, 다익스트라 알고리즘">
+      <change afterPath="$PROJECT_DIR$/src/main/java/elice/day10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/elice/day3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/elice/day3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/elice/day6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/elice/day6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,10 +66,14 @@
     "Gradle.Baekjoon [:Ac1_2741.main()].executor": "Run",
     "Gradle.Baekjoon [:Ac1_2920.main()].executor": "Run",
     "Gradle.Baekjoon [:Ac1_8958.main()].executor": "Run",
+    "Gradle.Baekjoon [:Ac2_10989.main()].executor": "Run",
     "Gradle.Baekjoon [:Ac2_1259.main()].executor": "Run",
     "Gradle.Baekjoon [:Ac2_15829.main()].executor": "Run",
+    "Gradle.Baekjoon [:Ac2_1676.main()].executor": "Run",
     "Gradle.Baekjoon [:Ac2_2609.main()].executor": "Run",
+    "Gradle.Baekjoon [:Ac2_2775.main()].executor": "Run",
     "Gradle.Baekjoon [:Ac2_2798.main()].executor": "Run",
+    "Gradle.Baekjoon [:Ac2_28702.main()].executor": "Run",
     "Gradle.Baekjoon [:Ac2_30802.main()].executor": "Run",
     "Gradle.Baekjoon [:Ac2_4153.main()].executor": "Run",
     "Gradle.Baekjoon [:Ge_10101.main()].executor": "Run",
@@ -82,19 +84,26 @@
     "Gradle.Baekjoon [:Ge_9063.main()].executor": "Run",
     "Gradle.Baekjoon [:Math1_1193.main()].executor": "Run",
     "Gradle.Baekjoon [:day1.main()].executor": "Run",
+    "Gradle.Baekjoon [:day10.main()].executor": "Run",
     "Gradle.Baekjoon [:day2.main()].executor": "Run",
     "Gradle.Baekjoon [:day3.main()].executor": "Run",
+    "Gradle.Baekjoon [:day5.main()].executor": "Run",
+    "Gradle.Baekjoon [:day5_answer.main()].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/hhss5/IdeaProjects/Baekjoon",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ac2_2609">
-    <configuration name="Ac2_1259" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ac2.Ac2_1259" />
+  <component name="RunManager" selected="Application.day10">
+    <configuration name="Ac2_10989" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ac2.Ac2_10989" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ac2_15829" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ac2.Ac2_15829" />
+    <configuration name="Ac2_1676" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ac2.Ac2_1676" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
@@ -119,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ac2_2609" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ac2.Ac2_2609" />
+    <configuration name="Ac2_28702" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ac2.Ac2_28702" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
@@ -132,8 +141,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="elice.day2" />
+    <configuration name="day10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="elice.day10" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
@@ -145,8 +154,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="elice.day3" />
+    <configuration name="day5_answer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="elice.day5_answer" />
       <module name="Baekjoon.main" />
       <extension name="coverage">
         <pattern>
@@ -160,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ac2_2609" />
-        <item itemvalue="Application.day3" />
-        <item itemvalue="Application.Ac2_1259" />
-        <item itemvalue="Application.day2" />
-        <item itemvalue="Application.Ac2_15829" />
+        <item itemvalue="Application.day10" />
+        <item itemvalue="Application.Ac2_1676" />
+        <item itemvalue="Application.Ac2_28702" />
+        <item itemvalue="Application.Ac2_10989" />
+        <item itemvalue="Application.day5_answer" />
       </list>
     </recent_temporary>
   </component>
@@ -401,143 +410,143 @@
       <option name="project" value="LOCAL" />
       <updated>1718942558798</updated>
     </task>
-    <task id="LOCAL-00041" summary="백준 단계별 기하 가능한 둘레가 긴 삼각형 만드는 문제">
+    <task id="LOCAL-00058" summary="solved.ac 2단계 - 최소공배수, 최대공약수 구하기 재귀와 반복문 사용">
       <option name="closed" value="true" />
-      <created>1719820437122</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
+      <created>1720690558415</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
       <option name="project" value="LOCAL" />
-      <updated>1719820437122</updated>
+      <updated>1720690558416</updated>
     </task>
-    <task id="LOCAL-00042" summary="백준 solved.ac 1단계 검증수 제곱근">
+    <task id="LOCAL-00059" summary="엘리스 코드 챌린지 3일차 - 문자열 압축 해제 재도전">
       <option name="closed" value="true" />
-      <created>1719888110499</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
+      <created>1720696884840</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
       <option name="project" value="LOCAL" />
-      <updated>1719888110499</updated>
+      <updated>1720696884840</updated>
     </task>
-    <task id="LOCAL-00043" summary="백준 solved.ac 1단계 숫자의 개수 string.valueof로 정수를 문자열로 치환 후 배열에 저장하여 출력">
+    <task id="LOCAL-00060" summary="solved.ac 2단계 - 부녀회장이 될테야 이차원배열 이용하여 모든 값 만든 후 조건에 맞게 출력">
       <option name="closed" value="true" />
-      <created>1719892429228</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
+      <created>1720770911681</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
       <option name="project" value="LOCAL" />
-      <updated>1719892429228</updated>
+      <updated>1720770911682</updated>
     </task>
-    <task id="LOCAL-00044" summary="백준 solved.ac 1단계 n찍기">
+    <task id="LOCAL-00061" summary="엘리스 코드 챌린지 4일차 - 트리 위의 게임">
       <option name="closed" value="true" />
-      <created>1719892665246</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
+      <created>1720796801901</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
       <option name="project" value="LOCAL" />
-      <updated>1719892665246</updated>
+      <updated>1720796801901</updated>
     </task>
-    <task id="LOCAL-00045" summary="백준 solved.ac 1단계 음계 조건문을 세울때 잘 확인할것">
+    <task id="LOCAL-00062" summary="엘리스 코드 챌린지 5일차 - 수열 복원 재도전 필요">
       <option name="closed" value="true" />
-      <created>1719894142999</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
+      <created>1720796815755</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
       <option name="project" value="LOCAL" />
-      <updated>1719894142999</updated>
+      <updated>1720796815755</updated>
     </task>
-    <task id="LOCAL-00046" summary="백준 solved.ac 1단계 OX 퀴즈 연속된 합 구하기 - 배열없이도 가능">
+    <task id="LOCAL-00063" summary="엘리스 코드 챌린지 5일차 - 수열 복원 정답">
       <option name="closed" value="true" />
-      <created>1719993895595</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
+      <created>1720799701953</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
       <option name="project" value="LOCAL" />
-      <updated>1719993895595</updated>
+      <updated>1720799701953</updated>
     </task>
-    <task id="LOCAL-00047" summary="백준 solved.ac 1단계 ACM호텔 정답률 33% 한번에 통과 기분이 좋음 호텔 층당 방 갯수가 주어지는게 함정 호텔 방 갯수 이상으로 손님이 많다면 주어는게 맞음">
+    <task id="LOCAL-00064" summary="Solved.ac 2단계 - 수 정렬하기3 arrays.sort는 시간복잡도가 아슬아슬하여 카운트 정렬로 문제풀이">
       <option name="closed" value="true" />
-      <created>1719996108682</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
+      <created>1720854561009</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
       <option name="project" value="LOCAL" />
-      <updated>1719996108682</updated>
+      <updated>1720854561010</updated>
     </task>
-    <task id="LOCAL-00048" summary="백준 solved.ac 1단계 A + B - C 문자열, 정수 변환 문제">
+    <task id="LOCAL-00065" summary="Solved.ac 2단계 - 이항 계수 재귀를 통해 구현 추후 동적계획법을 이용하여 문제를 풀어볼 예정">
       <option name="closed" value="true" />
-      <created>1719996997180</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
+      <created>1721032653899</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
       <option name="project" value="LOCAL" />
-      <updated>1719996997180</updated>
+      <updated>1721032653899</updated>
     </task>
-    <task id="LOCAL-00049" summary="백준 solved.ac 2단계 웰컴 키트">
+    <task id="LOCAL-00066" summary="Solved.ac 2단계 - FizzBuzz 정규표현식 사용">
       <option name="closed" value="true" />
-      <created>1720073050557</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
+      <created>1721125465067</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
       <option name="project" value="LOCAL" />
-      <updated>1720073050557</updated>
+      <updated>1721125465067</updated>
     </task>
-    <task id="LOCAL-00050" summary="백준 solved.ac 2단계 직각삼각형 피타고라스의 정리">
+    <task id="LOCAL-00067" summary="앨리스 코딩 챌린지 - day6 빨간 선과 파란 선">
       <option name="closed" value="true" />
-      <created>1720162526293</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
+      <created>1721128679367</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
       <option name="project" value="LOCAL" />
-      <updated>1720162526293</updated>
+      <updated>1721128679367</updated>
     </task>
-    <task id="LOCAL-00051" summary="백준 solved.ac 2단계 분해합 - 브루트포스 다른 알고리즘 방식도 찾아보기">
+    <task id="LOCAL-00068" summary="solved.ac 2단계 - 단어 정렬">
       <option name="closed" value="true" />
-      <created>1720346803310</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
+      <created>1721210816977</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
       <option name="project" value="LOCAL" />
-      <updated>1720346803311</updated>
+      <updated>1721210816977</updated>
     </task>
-    <task id="LOCAL-00052" summary="백준 solved.ac 2단계 블랙잭 3중 for문 사용">
+    <task id="LOCAL-00069" summary="solved.ac 2단계 - 영화감독 숌 String.contains 사용하여 풀이">
       <option name="closed" value="true" />
-      <created>1720409762688</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
+      <created>1721295063675</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
       <option name="project" value="LOCAL" />
-      <updated>1720409762689</updated>
+      <updated>1721295063676</updated>
     </task>
-    <task id="LOCAL-00053" summary="엘리스 알고리즘 코드 챌린지 시간복잡도 제한이 있는 주어진 수보다 크면서 숫자의 구성은 동일한 가장 작은 수 찾기">
+    <task id="LOCAL-00070" summary="solved.ac 2단계 - 영화감독 숌 리팩토링 구간을 나누어서 count 이해 필요">
       <option name="closed" value="true" />
-      <created>1720435626807</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
+      <created>1721295109062</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
       <option name="project" value="LOCAL" />
-      <updated>1720435626808</updated>
+      <updated>1721295109062</updated>
     </task>
-    <task id="LOCAL-00054" summary="solved.ac 2단계 - hash값 만들기 BigInteger 사용&#10;다른 소수로 나눠줄 생각을 못함">
+    <task id="LOCAL-00071" summary="엘리스 코딩 챌린지 day7 - 계기판 조작하기 동적 계획법(Dynamic Programming) 사용">
       <option name="closed" value="true" />
-      <created>1720515298015</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
+      <created>1721295431119</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
       <option name="project" value="LOCAL" />
-      <updated>1720515298016</updated>
+      <updated>1721295431119</updated>
     </task>
-    <task id="LOCAL-00055" summary="elice code Challenge - 2일차 정리 정돈을 좋아하는 k씨">
+    <task id="LOCAL-00072" summary="엘리스 코딩 챌린지 day8 - 강림제">
       <option name="closed" value="true" />
-      <created>1720517592457</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
+      <created>1721296057804</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
       <option name="project" value="LOCAL" />
-      <updated>1720517592457</updated>
+      <updated>1721296057804</updated>
     </task>
-    <task id="LOCAL-00056" summary="solved.ac 2단계 - 팰린드롬수 시간복잡도 더 낮추기">
+    <task id="LOCAL-00073" summary="solved.ac 2단계 - 팩토리얼 0의 개수 5의 누적합 구하여 문제풀이">
       <option name="closed" value="true" />
-      <created>1720602355335</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
+      <created>1721358468487</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
       <option name="project" value="LOCAL" />
-      <updated>1720602355336</updated>
+      <updated>1721358468488</updated>
     </task>
-    <task id="LOCAL-00057" summary="엘리스 코드 챌린지 3일차 - 문자열 압축 해제 (틀림) 재도전 할 것">
+    <task id="LOCAL-00074" summary="엘리스 코딩 챌린지 day9 - 격자 위의 ELICE BFS, 다익스트라 알고리즘">
       <option name="closed" value="true" />
-      <created>1720607174344</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
+      <created>1721362734632</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
       <option name="project" value="LOCAL" />
-      <updated>1720607174344</updated>
+      <updated>1721362734632</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -564,23 +573,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 단계별 약수,배수 문제 풀이 소수 완" />
-    <MESSAGE value="백준 단계별 기하 직사각형의 넓이 문제" />
-    <MESSAGE value="백준 단계별 기하 좌표에서의 최소 거리 문제" />
-    <MESSAGE value="백준 단계별 기하 직사각형을 만들기 위한 마지막 좌표" />
-    <MESSAGE value="백준 단계별 기하 도형의 둘레 길이 구하기, 좀더 단순 하게 생각할 것" />
-    <MESSAGE value="백준 단계별 기하 옥구슬을 모두 포함하는 직사각형을 찾는 문제" />
-    <MESSAGE value="백준 단계별 기하 각도에 따른 삼각형 판별" />
-    <MESSAGE value="백준 단계별 기하 변의 길이에 따른 삼각형 판별" />
-    <MESSAGE value="백준 단계별 기하 가능한 둘레가 긴 삼각형 만드는 문제" />
-    <MESSAGE value="백준 solved.ac 1단계 검증수 제곱근" />
-    <MESSAGE value="백준 solved.ac 1단계 숫자의 개수 string.valueof로 정수를 문자열로 치환 후 배열에 저장하여 출력" />
-    <MESSAGE value="백준 solved.ac 1단계 n찍기" />
-    <MESSAGE value="백준 solved.ac 1단계 음계 조건문을 세울때 잘 확인할것" />
-    <MESSAGE value="백준 solved.ac 1단계 OX 퀴즈 연속된 합 구하기 - 배열없이도 가능" />
-    <MESSAGE value="백준 solved.ac 1단계 ACM호텔 정답률 33% 한번에 통과 기분이 좋음 호텔 층당 방 갯수가 주어지는게 함정 호텔 방 갯수 이상으로 손님이 많다면 주어는게 맞음" />
-    <MESSAGE value="백준 solved.ac 1단계 A + B - C 문자열, 정수 변환 문제" />
-    <MESSAGE value="백준 solved.ac 2단계 웰컴 키트" />
     <MESSAGE value="백준 solved.ac 2단계 직각삼각형 피타고라스의 정리" />
     <MESSAGE value="백준 solved.ac 2단계 분해합 - 브루트포스 다른 알고리즘 방식도 찾아보기" />
     <MESSAGE value="백준 solved.ac 2단계 블랙잭 3중 for문 사용" />
@@ -589,7 +581,24 @@
     <MESSAGE value="elice code Challenge - 2일차 정리 정돈을 좋아하는 k씨" />
     <MESSAGE value="solved.ac 2단계 - 팰린드롬수 시간복잡도 더 낮추기" />
     <MESSAGE value="엘리스 코드 챌린지 3일차 - 문자열 압축 해제 (틀림) 재도전 할 것" />
-    <option name="LAST_COMMIT_MESSAGE" value="엘리스 코드 챌린지 3일차 - 문자열 압축 해제 (틀림) 재도전 할 것" />
+    <MESSAGE value="solved.ac 2단계 - 최소공배수, 최대공약수 구하기 재귀와 반복문 사용" />
+    <MESSAGE value="엘리스 코드 챌린지 3일차 - 문자열 압축 해제 재도전" />
+    <MESSAGE value="solved.ac 2단계 - 부녀회장이 될테야 이차원배열 이용하여 모든 값 만든 후 조건에 맞게 출력" />
+    <MESSAGE value="엘리스 코드 챌린지 4일차 - 트리 위의 게임" />
+    <MESSAGE value="엘리스 코드 챌린지 5일차 - 수열 복원 재도전 필요" />
+    <MESSAGE value="엘리스 코드 챌린지 5일차 - 수열 복원 정답" />
+    <MESSAGE value="Solved.ac 2단계 - 수 정렬하기3 arrays.sort는 시간복잡도가 아슬아슬하여 카운트 정렬로 문제풀이" />
+    <MESSAGE value="Solved.ac 2단계 - 이항 계수 재귀를 통해 구현 추후 동적계획법을 이용하여 문제를 풀어볼 예정" />
+    <MESSAGE value="Solved.ac 2단계 - FizzBuzz 정규표현식 사용" />
+    <MESSAGE value="앨리스 코딩 챌린지 - day6 빨간 선과 파란 선" />
+    <MESSAGE value="solved.ac 2단계 - 단어 정렬" />
+    <MESSAGE value="solved.ac 2단계 - 영화감독 숌 String.contains 사용하여 풀이" />
+    <MESSAGE value="solved.ac 2단계 - 영화감독 숌 리팩토링 구간을 나누어서 count 이해 필요" />
+    <MESSAGE value="엘리스 코딩 챌린지 day7 - 계기판 조작하기 동적 계획법(Dynamic Programming) 사용" />
+    <MESSAGE value="엘리스 코딩 챌린지 day8 - 강림제" />
+    <MESSAGE value="solved.ac 2단계 - 팩토리얼 0의 개수 5의 누적합 구하여 문제풀이" />
+    <MESSAGE value="엘리스 코딩 챌린지 day9 - 격자 위의 ELICE BFS, 다익스트라 알고리즘" />
+    <option name="LAST_COMMIT_MESSAGE" value="엘리스 코딩 챌린지 day9 - 격자 위의 ELICE BFS, 다익스트라 알고리즘" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
