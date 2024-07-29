@@ -32,7 +32,7 @@ public class Ac2_11650 {
 
         StringBuilder sb = new StringBuilder();
         for(int i = 0 ; i< n ; i++) {
-            sb.append(arr[i][0] + " " + arr[i][1]).append('\n');
+            sb.append(arr[i][0]).append(" ").append(arr[i][1]).append('\n');
         }
         System.out.println(sb);
     }
